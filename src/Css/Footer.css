@@ -1,0 +1,25 @@
+.con{
+    background-color: rgb(154, 133, 133);
+    padding: 20px;
+}
+
+#foot{
+    color: rgb(77, 16, 134);
+    text-align: center
+}
+.instagram-link {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none; 
+    font-weight: bold;
+    color: rgb(77, 16, 134);
+  }
+  
+.instagram-link:hover {
+    text-decoration: underline;   
+  }
+
+.foot2{
+    padding-left: 600px;
+}

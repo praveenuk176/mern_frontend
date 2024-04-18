@@ -1,0 +1,42 @@
+
+
+.container1{
+    background-image: url('https://as2.ftcdn.net/v2/jpg/01/62/60/75/1000_F_162607591_0ClMAKdKPana6QUUh6XDIuX98wBcrCUi.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: 100%;
+    height: 600px;
+    
+}
+
+#he1{
+    color: rgb(76, 8, 8);
+    text-align: center;
+    padding: 10px;
+}
+
+#p1{
+    color: rgb(124, 13, 13);
+    align-content: center;
+    padding-left: 220px;
+    padding-right: 220px;
+}
+.container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+.container2{
+    padding: 50px;
+    flex: 1;
+    
+}
+
+.container3{
+    padding: 50px;
+    flex: 0;
+
+}

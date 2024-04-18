@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "todo": "Kholi",
+      "age": "36",
+      "roll": "C18",
+      "id": 3
+    },
+    {
+      "todo": "Rohit",
+      "age": "37",
+      "roll": "C45",
+      "id": 4
+    },
+    {
+      "todo": "Dhoni",
+      "age": "42",
+      "roll": "C07",
+      "id": 5
+    },
+    {
+      "todo": "D.Karthik",
+      "age": "40",
+      "roll": "C10",
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
